@@ -15,7 +15,7 @@ app.use(express.json())
 
 //membuat routes
 app.get('/', (req,res) => {
-    res.json({message: 'hello'})
+    res.json({message: 'helloads kfjadkfjafk ajkf'})
 })
 
 const PORT = process.env.PORT || 8000
